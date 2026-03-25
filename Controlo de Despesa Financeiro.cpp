@@ -44,13 +44,13 @@ int main() {
     float totalSaude = 0, totalEducacao = 0, totalOutros = 0;
 
     do {
-        cout << "\n===== CONTROLO DE DESPESAS =====\n";
-        cout << "1. Registar despesa\n";
-        cout << "2. Mostrar despesas\n";
-        cout << "3. Total gasto\n";
-        cout << "4. Exportar relatorio\n";
-        cout << "5. Total por categoria\n";
-        cout << "0. Sair\n";
+        cout << "\n===== CONTROLO DE DESPESAS =====" <<endl;
+        cout << "1. Registar despesa" <<endl;
+        cout << "2. Mostrar despesas" <<endl;
+        cout << "3. Total gasto" <<endl;
+        cout << "4. Exportar relatorio" <<endl;
+        cout << "5. Total por categoria" <<endl;
+        cout << "0. Sair" <<endl;
         cout << "Opcao: ";
         cin >> opcao;
 
