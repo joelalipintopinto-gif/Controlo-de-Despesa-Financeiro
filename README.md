@@ -8,19 +8,12 @@
   - Charles Manuel  
   - Roque Armando  
 
-Docente:** Daniel Gimo  
-Instituição:** Universidade Licungo  
-Curso:** Informática  
-Ano:** 2º Ano  
-Cadeira:** Laboratório de Informática II  
+Docente: Daniel Gimo  
+Instituição: Universidade Licungo  
+Curso: Informática  
+Ano: 2º Ano  
+Cadeira: Laboratório de Informática II  
 
-
-
-Descrição
-
-Este projeto consiste no desenvolvimento de um programa em **C++** para o **controlo de despesas pessoais**.
-
-O sistema permite ao utilizador registar, visualizar e analisar os seus gastos de forma simples e organizada.
 
 
 
@@ -34,23 +27,10 @@ Funcionalidades
 
 
 
-Estrutura do Projeto
- Controlo de Despesas em C++
-
-Informações do Projeto
-
-* **Estudante:** Joel Ali Viano
-* **Docente:** Daniel Gimo
-* **Instituição:** Universidade Licungo
-* **Curso:** Informática
-* **Ano:** 2º Ano
-* **Cadeira:** Laboratório de Informática II
-
-
 
  Descrição
 
-Este projeto consiste no desenvolvimento de um programa em **C++** para o **controlo de despesas pessoais**.
+Este projeto consiste no desenvolvimento de um programa em C++ para o **controlo de despesas pessoais.
 
 O sistema permite ao utilizador registar, visualizar e analisar os seus gastos de forma simples e organizada.
 
@@ -58,18 +38,18 @@ O sistema permite ao utilizador registar, visualizar e analisar os seus gastos d
 
 Funcionalidades
 
-* ✅ Registar despesas
-* ✅ Mostrar lista de despesas
-* ✅ Calcular total gasto
-* ✅ Mostrar total por categoria
-* ✅ Exportar relatório (`extrato_mes.txt`)
+Registar despesas
+Mostrar lista de despesas
+Calcular total gasto
+ Mostrar total por categoria
+ Exportar relatório (`extrato_mes.txt`)
 
 
 
  Estrutura do Projeto
 
-```
-📁 projeto/
+
+    projeto/
 ├── src/
 │   ├── main.cpp
 │   ├── membro1.cpp
@@ -87,9 +67,9 @@ Funcionalidades
 │   └── codigo.md
 │
 └── README.md
-```
 
----
+
+
 
  Divisão do Trabalho
 Membro 1:** Validação de datas (`dataValida`)
@@ -156,5 +136,5 @@ Objetivo do Projeto
 
 Este projeto permitiu desenvolver competências importantes em programação, organização de código e colaboração em grupo, fundamentais para a formação em Informática.
 
----
+
 
