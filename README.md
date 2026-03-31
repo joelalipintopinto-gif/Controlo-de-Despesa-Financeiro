@@ -8,15 +8,15 @@
   - Charles Manuel  
   - Roque Armando  
 
-- **Docente:** Daniel Gimo  
-- **Instituição:** Universidade Licungo  
-- **Curso:** Informática  
-- **Ano:** 2º Ano  
-- **Cadeira:** Laboratório de Informática II  
+Docente:** Daniel Gimo  
+Instituição:** Universidade Licungo  
+Curso:** Informática  
+Ano:** 2º Ano  
+Cadeira:** Laboratório de Informática II  
 
----
 
-📖 Descrição
+
+Descrição
 
 Este projeto consiste no desenvolvimento de um programa em **C++** para o **controlo de despesas pessoais**.
 
@@ -24,7 +24,7 @@ O sistema permite ao utilizador registar, visualizar e analisar os seus gastos d
 
 
 
-## ⚙️ Funcionalidades
+Funcionalidades
 
 - Registar despesas  
 - Mostrar lista de despesas  
@@ -32,12 +32,12 @@ O sistema permite ao utilizador registar, visualizar e analisar os seus gastos d
 - Mostrar total por categoria  
 - Exportar relatório (`extrato_mes.txt`)  
 
----
 
-🗂️ Estrutura do Projeto
-# 💻 Controlo de Despesas em C++
 
-## 📌 Informações do Projeto
+Estrutura do Projeto
+ Controlo de Despesas em C++
+
+Informações do Projeto
 
 * **Estudante:** Joel Ali Viano
 * **Docente:** Daniel Gimo
@@ -46,17 +46,17 @@ O sistema permite ao utilizador registar, visualizar e analisar os seus gastos d
 * **Ano:** 2º Ano
 * **Cadeira:** Laboratório de Informática II
 
----
 
-## 📖 Descrição
+
+ Descrição
 
 Este projeto consiste no desenvolvimento de um programa em **C++** para o **controlo de despesas pessoais**.
 
 O sistema permite ao utilizador registar, visualizar e analisar os seus gastos de forma simples e organizada.
 
----
 
-## ⚙️ Funcionalidades
+
+Funcionalidades
 
 * ✅ Registar despesas
 * ✅ Mostrar lista de despesas
@@ -64,9 +64,9 @@ O sistema permite ao utilizador registar, visualizar e analisar os seus gastos d
 * ✅ Mostrar total por categoria
 * ✅ Exportar relatório (`extrato_mes.txt`)
 
----
 
-## 🗂️ Estrutura do Projeto
+
+ Estrutura do Projeto
 
 ```
 📁 projeto/
@@ -97,9 +97,9 @@ Membro 2:** Registo de despesas
 Membro 3:** Mostrar despesas e total gasto
 Membro 4:** Exportar relatório e total por categoria
 
----
 
- ▶️ Como Executar
+
+ Como Executar
 
 1. Compilar o programa
 
@@ -115,7 +115,7 @@ g++ -o despesas main.cpp
 
 ---
 
- 📅 Formato da Data
+ Formato da Data
 
 O utilizador deve inserir a data no formato:
 
@@ -129,9 +129,9 @@ Exemplo:
 25 03 2026
 ```
 
----
 
- 📄 Relatório
+
+  Relatório
 
 O programa gera automaticamente um ficheiro:
 
@@ -141,18 +141,18 @@ extrato_mes.txt
 
 Com todas as despesas registadas e o total final.
 
----
 
-## 🎯 Objetivo do Projeto
+
+Objetivo do Projeto
 
 * Aplicar conceitos de programação em C++
 * Trabalhar com ficheiros
 * Desenvolver lógica de programação
 * Praticar trabalho em grupo e modularização
 
----
 
-## 📌 Conclusão
+
+ Conclusão
 
 Este projeto permitiu desenvolver competências importantes em programação, organização de código e colaboração em grupo, fundamentais para a formação em Informática.
 
